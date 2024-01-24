@@ -2,7 +2,7 @@
 
 ## Objectif du TP
 
-L'objectif de ce TP est d'évaluer vos compétences en Shell/Linux à travers la réalisation de deux scripts Shell. Ces scripts seront utilisés pour créer un ensemble de fichiers et organiser ces fichiers dans une structure de répertoires spécifique.
+La réalisation de deux scripts Shell. Ces scripts seront utilisés pour créer un ensemble de fichiers et organiser ces fichiers dans une structure de répertoires spécifique.
 
 ## Scripts Shell
 
